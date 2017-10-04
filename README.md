@@ -10,8 +10,11 @@ A cool snake game with running food
 ## Running
 
 >  git clone https://github.com/srbcheema1/snakeGame.git
+
 >  cd snakeGame
+
 >  ant run
+
  
 ## Controls
 
