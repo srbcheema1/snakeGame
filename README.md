@@ -18,10 +18,9 @@ A cool snake game with running food
  
 ## Controls
 
--------- | ---
-W  |  up
-A  |  left
-S  | down
-D  |  right
+|W  |  up
+|A  |  left
+|S  | down
+|D  |  right
 
 ### Git it a try! 
