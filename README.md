@@ -1,18 +1,16 @@
 
 Welcome to snakeGame!
 ===================
+
+/* 🐍 🐍 🐍 🐍 🐍 */
+
+cool snake game with moveable food
 A cool snake game with running food
 
 ![alt text](https://github.com/srbcheema1/snakeGame/raw/master/src/images/picture1.png)
 
 ----------
 
-
-## Running
-
->  git clone https://github.com/srbcheema1/snakeGame.git    
->  cd snakeGame  
->  ant run  
 
 ## Controls
  
