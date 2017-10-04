@@ -15,12 +15,15 @@ A cool snake game with running food
 
 >  ant run
 
- 
 ## Controls
-|-----|--------|
-|W  |  up    |
-|A  |  left  |
-|S  | down   |
-|D  |  right  |
+ 
+| key        | direction           |  
+| ------------- |:-------------:|  
+| W     | up| 
+| A     | left      | 
+| S | down    |   
+| D | right |   
+ 
 
 ### Git it a try! 
+
