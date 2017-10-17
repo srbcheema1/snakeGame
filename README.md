@@ -1,6 +1,7 @@
 Welcome to snakeGame!
 ===================
-A cool snake game with running food
+I love snakes :)
+A cool snake game with running food, yummy!!!!
 
 /* 🐍 🐍 🐍 🐍 🐍 */
 
