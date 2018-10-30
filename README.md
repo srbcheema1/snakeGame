@@ -18,4 +18,4 @@ A cool snake game with running food
 | D | right |   
  
 
-### Git it a try! 
+### Give it a try! 
